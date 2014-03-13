@@ -1,3 +1,4 @@
 fish-config
 ===========
-Configuration files for fish shell: fishshell.com
+
+Configuration files for fish shell - [fishshell.com].
