@@ -1,4 +1,4 @@
-function gpull
+function gpush
     if [ $argv ]
         git push $argv
     else
