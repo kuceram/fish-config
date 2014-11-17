@@ -1,4 +1,4 @@
 function ga
-  git add . 
+  git add . -p
   git status
 end
