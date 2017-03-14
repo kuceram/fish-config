@@ -2,6 +2,6 @@ function gpull
     if [ $argv ]
         git pull $argv
     else
-        git pull upstream develop
+        git pull upstream master
     end
 end
